@@ -6,3 +6,5 @@ https://github.com/Gibbu/BetterDiscord-Themes/tree/master/MinimalCord
 
 To install, download and drag and drop the css file to the themes folder on BetterDiscord\themes. 
 You can also open the original MinimalCord.theme.css file (make backup of the file first) and replace the code found here.
+
+If you dont have Better Discrod yet, you can get it from here: https://github.com/rauenzi/BBDInstaller/
